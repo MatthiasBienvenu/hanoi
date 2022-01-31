@@ -1,3 +1,4 @@
+import tkinter.messagebox as messagebox
 from tkinter import *
 
 time = 500
